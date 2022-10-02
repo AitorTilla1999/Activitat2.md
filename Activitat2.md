@@ -8,3 +8,10 @@
 2. Desactivem el llistat de directoris del servidor:
 
 ![](FOTO5.png)
+
+**INSTAL.LAR MariaDB**
+
+1.instal.larem MariaDB:
+
+![](FOTO6.png)
+
